@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Nik
-- 👀 I’m interested in making Apps 
-- 🌱 I’m currently learning Swift & Python 
-- 📫 How to reach me Hrezolitaz@gmail.com
-- 🟢 WhatsApp: +996 (551) 90 70 13
-- 🔵 Telegram: @Hrezolit
+<h1 align="center">Hi there, I'm <a href="https://mobile.twitter.com/Hrezolitaz" target="_blank">Nik</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> Future iOS-Developer 👨🏻‍💻, 
+e-mail: Hrezolitaz@gmail.com
+whatsApp: +996 (551) 90 70 13
+telegram: @Hrezolit </h3>
+
 
 <!---
 hrezolit/hrezolit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
