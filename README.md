@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrezolit
+- 👋 Hi, I’m Nik
 - 👀 I’m interested in making Apps 
 - 🌱 I’m currently learning Swift & Python 
 - 📫 How to reach me Hrezolitaz@gmail.com
