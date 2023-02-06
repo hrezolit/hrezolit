@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://mobile.twitter.com/Hrezolitaz" target="_blank">Nik</a> 
-<img src="file:///Users/hrezolit/Desktop/Simple-Animations.gif" height="32"/></h1>
+<img src="[file:///Users/hrezolit/Desktop/Simple-Animations.gif](https://cdn-gpbhl.nitrocdn.com/fTnIRUeDsyCunYIZpkgOIiyOENKRZfYK/assets/static/optimized/wp-content/uploads/2016/01/e5a797e606f3dc3a529cc8403bc4f3ae.Simple-Animations.gif)" height="32"/></h1>
 <h3 align="center"> Future iOS-Developer 👨🏻‍💻, 
 e-mail: Hrezolitaz@gmail.com
 whatsApp: +996 (551) 90 70 13
