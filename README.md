@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://mobile.twitter.com/Hrezolitaz" target="_blank">Nik</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="file:///Users/hrezolit/Desktop/Simple-Animations.gif" height="32"/></h1>
 <h3 align="center"> Future iOS-Developer 👨🏻‍💻, 
 e-mail: Hrezolitaz@gmail.com
 whatsApp: +996 (551) 90 70 13
