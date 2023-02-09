@@ -3,8 +3,8 @@
      width="800", height="600"/></h1>
      <h1 align="center">Hi there, I'm <a href="https://mobile.twitter.com/Hrezolitaz" target="_blank">Nik</a> 
 <h3 align="center"> Future iOS-Developer 👨🏻‍💻, 
-e-mail: Hrezolitaz@gmail.com
-whatsApp: +996 (551) 90 70 13
+e-mail: Hrezolitaz@gmail.com,
+whatsApp: +996 (551) 90 70 13,
 telegram: @Hrezolit </h3>
 
 
