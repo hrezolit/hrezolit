@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/62234354/217726942-49b1d484-3129-4824-b786-cc996cc7b61f.gif" 
-     width="800", height="600"/></h1>
+     width="600", height="400"/></h1>
      <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/nikita-galivets-5381bb12a/" target="_blank">Nik</a> 
 <h3 align="center"> Future iOS-Developer 👨🏻‍💻, 
 e-mail: Hrezolitaz@gmail.com,
